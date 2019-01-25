@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Arbitros",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MWE3NWRkOGRmNTY3M2JiY2Y0MmZjYjQ1MDBjMjgxYTM5M2M3M2M3M2FhNWIwZTJkODRlNDcyY2M5NzE1MDcxOTI1YjU4YzU3MTA5OGIwZDhjYTdhYmY3YTRlM2I4MzAxNjQ4ZWQ1ZDUzMzM0ZGJmODA0ZjFiMjE4OWE0NjRmMDI=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Proypb20",
+  "repository-name": "Arbitros"
+}
